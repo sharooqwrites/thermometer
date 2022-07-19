@@ -1,6 +1,6 @@
 const tempLoad = () => {
     let temp = document.getElementById("temp")
-    temp.innerHTML = "&#xf2cb";
+    temp.innerHTML = "&#xf2cb"; //this key is  font awesome icon key
 
     // setTimeout function ko use karan hai
     setTimeout(() => {
